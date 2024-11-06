@@ -67,8 +67,20 @@ Information Security Analyst <br>
 <img>
   
 </div>
+<div classname="telefonica">
+<img src="https://github.com/user-attachments/assets/591c1a16-70c6-4f08-9f5b-e5a59bfc8fca" width="100" height="100"/>
+  IT Help Desk Intern
+ February 2021 - February 2022
+ Managed users, computers, and groups via Active Directory, handled computer maintenance with OCS Inventory, supported software installations for Office 365,
+ and addressed employee needs through Redmine.
+</div>
 
-<img src="https://github.com/user-attachments/assets/86687de5-41a5-4a9d-949d-3140170c890d"  width="100" height="100" />
+
+## PROJECTS
 
 
+- SITE LIL DIGS
+- Portfolio
+- Pokedex
+- React Native App
 
