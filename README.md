@@ -1,18 +1,4 @@
 
-<!--
-**LucasSantosOriginal/LucasSantosOriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## <h1>LUCAS SANTOS</h1>
 <div>
@@ -61,16 +47,14 @@ Below, you’ll find all my work experiences and the programming languages I kno
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
 </div>
 
+<br>
 
-
-## JOB EXPERIENCE
-<div classname="vivo">
-  <img src="https://github.com/user-attachments/assets/d3da8bce-a434-4afc-bfa4-f15e2a4f724a" width="100" height="100" />
-</br>
-São Paulo, Brazil </br>
+<h1>JOB EXPERIENCE</h1>
+<h2> Vivo (Telefônica Brasil)</h2></br>
+<p>São Paulo, Brazil </br>
 Information Security Analyst <br>
  March 2022 - May 2024 <br>
-</br>
+</br></p>
   <p>
      Supported Cloud and Architecture teams in implementing the CIS Model, OWASP standards, AWS, GCP, Huawei Cloud, and Microsoft Azure. Responsibilities
  included:
@@ -79,9 +63,10 @@ Information Security Analyst <br>
  Developing a Power BI-based internal wiki site for Security updates, using front-end programming skills (HTML, CSS, JavaScript) for interactivity.
  Utilizing Confluence and SharePoint for documentation and ServiceNow for ticket management involving software security analysis
 </p>
-<br>
-<img loading="lazy" src="https://github.com/user-attachments/assets/cc390121-ef02-4f2e-b7c0-330154668859" width="60" height="40" />
-  
+  <h3>SKILLS</h3>
+<img loading="lazy" src="https://github.com/user-attachments/assets/cc390121-ef02-4f2e-b7c0-330154668859" width="110" height="50" />
+  <br>
+  <br>
 </div>
 <div classname="telefonica">
 <img src="https://github.com/user-attachments/assets/591c1a16-70c6-4f08-9f5b-e5a59bfc8fca" width="100" height="100"/>
