@@ -87,6 +87,7 @@ Information Security Analyst <br>
   <br>
  trainee in IT Help Desk  <br>
  February 2021 - February 2022 <br>
+  <br>
    <p>
  Managed users, computers, and groups via Active Directory, handled computer maintenance with OCS Inventory, supported software installations for Office 365,
  and addressed employee needs through Redmine. </p>
