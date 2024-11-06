@@ -70,7 +70,7 @@ Below, you’ll find all my work experiences and the programming languages I kno
 São Paulo, Brazil </br>
 Information Security Analyst <br>
  March 2022 - May 2024 <br>
-</h2>
+</br>
   <p>
      Supported Cloud and Architecture teams in implementing the CIS Model, OWASP standards, AWS, GCP, Huawei Cloud, and Microsoft Azure. Responsibilities
  included:
@@ -84,10 +84,13 @@ Information Security Analyst <br>
 </div>
 <div classname="telefonica">
 <img src="https://github.com/user-attachments/assets/591c1a16-70c6-4f08-9f5b-e5a59bfc8fca" width="100" height="100"/>
-  IT Help Desk Intern
- February 2021 - February 2022
+  <br>
+ trainee in IT Help Desk  <br>
+ February 2021 - February 2022 <br>
+   <p>
  Managed users, computers, and groups via Active Directory, handled computer maintenance with OCS Inventory, supported software installations for Office 365,
- and addressed employee needs through Redmine.
+ and addressed employee needs through Redmine. </p>
+
 </div>
 
 
