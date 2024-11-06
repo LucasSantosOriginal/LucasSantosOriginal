@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 ## JOB EXPERIENCE
 <div classname="vivo">
   <img src="https://github.com/user-attachments/assets/d3da8bce-a434-4afc-bfa4-f15e2a4f724a" width="100" height="100" />
-<h2> VIVO <br>
 Information Security Analyst <br>
  March 2022 - May 2024 <br>
 </h2>
@@ -69,6 +68,7 @@ Information Security Analyst <br>
   
 </div>
 
+<img src="https://github.com/user-attachments/assets/86687de5-41a5-4a9d-949d-3140170c890d"  width="100" height="100" />
 
 
 
