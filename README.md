@@ -64,7 +64,22 @@ Information Security Analyst <br>
  Utilizing Confluence and SharePoint for documentation and ServiceNow for ticket management involving software security analysis
 </p>
   <h3>SKILLS</h3>
-<img loading="lazy" src="https://github.com/user-attachments/assets/cc390121-ef02-4f2e-b7c0-330154668859" width="110" height="50" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/1605baf7-8339-4b34-8eaa-503a8b6717f8" width="40" height="40" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/70dd8b09-94fa-4fdb-ac19-56076494da32" width="40" height="40" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/f89ea86c-f63c-455f-a7ff-71beb0018b84" width="40" height="40" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/70ec039c-298b-4a33-8fef-c9a1143b44b6" width="40" height="40" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/252921b1-2cb2-43ed-a731-67f64da79658" width="40" height="40" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/e7a1b87b-6a23-4d4f-be53-c1143c30fffc" width="40" height="40" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/139f8398-af85-4f25-a7b2-df9d63f293b0" width="40" height="40" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/a3f04eed-e002-4b54-9662-1bc092855952" width="40" height="40" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/aa5147df-5f69-4ab5-9b51-d39432dc5465" width="40" height="40" />
+
+
+
+
+
+
+
   <br>
   <br>
 </div>
@@ -78,6 +93,15 @@ trainee in IT Help Desk  <br>
  Managed users, computers, and groups via Active Directory, handled computer maintenance with OCS Inventory, supported software installations for Office 365,
  and addressed employee needs through Redmine. </p>
   <h3>SKILLS</h3>
+
+
+  <img loading="lazy" src="https://github.com/user-attachments/assets/766f11c8-0078-4e6c-82a9-ce031286d4b7" width="170" height="40" />
+<br><img loading="lazy" src="https://github.com/user-attachments/assets/3b9186b9-b7dc-429e-9bf5-b9f602a242b5" width="170" height="40" />
+
+
+
+
+ 
 </div>
 
 
