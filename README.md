@@ -51,5 +51,6 @@ Here are some ideas to get you started:
 </div>
 
 ## JOB EXPERIENCE
+![logo-vivo-256](https://github.com/user-attachments/assets/d3da8bce-a434-4afc-bfa4-f15e2a4f724a)
 
-![logo-vivo-256](https://github.com/user-attachments/assets/80741a87-b35b-4ea4-8a60-16352a7dbc84)
+
