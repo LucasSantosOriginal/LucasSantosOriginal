@@ -94,9 +94,17 @@ trainee in IT Help Desk  <br>
  and addressed employee needs through Redmine. </p>
   <h3>SKILLS</h3>
 
+<p>
+TEAM VIEWER
+OCS INVENTORY
+MICROSOFT ACTIVE DIRECTORY
+REDMINE
+ANYDESK
+LINUX
 
-  <img loading="lazy" src="https://github.com/user-attachments/assets/766f11c8-0078-4e6c-82a9-ce031286d4b7" width="170" height="40" />
-<br><img loading="lazy" src="https://github.com/user-attachments/assets/3b9186b9-b7dc-429e-9bf5-b9f602a242b5" width="170" height="40" />
+
+
+</p>
 
 
 
