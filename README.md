@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Hello, Devs!!
 
-Hey Devs! I’m Lucas Santos, 25 years old, born and raised in São Paulo, Brazil. I’m a front-end developer, music producer, and I’ve got 2 years of experience as a CyberSecurity analyst.
+I’m Lucas Santos, 25 years old, born and raised in São Paulo, Brazil. I’m a front-end developer, music producer, and I’ve got 2 years of experience as a CyberSecurity analyst.
 
 I’m passionate about gaming, and my life dream is to develop a game with a soundtrack made by me as well. I have a degree in Information Technology and I’m currently looking for opportunities in front-end and similar fields.
 
