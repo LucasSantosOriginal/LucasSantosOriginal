@@ -54,7 +54,7 @@ Below, you’ll find all my work experiences and the programming languages I kno
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 I created a website for a Brazilian trap artist. <a href="https://lucassantosoriginal.github.io/lildigs-siteofc/">Alura</a>;</p>
+ <p align="left">🤿 I created a website for a Brazilian trap artist. <a href="https://lucassantosoriginal.github.io/lildigs-siteofc/">LIL DIGS</a>;</p>
  <p align="left">💻 Sou formada em Sistemas de Informação e faço pós graduação em Arquitetura de Sistemas .NET com Azure na FIAP;</p>
  <p align="left">📚 Tenho trabalhado e estudado com C# e .NET, mas também gosto de me aventurar em Unity nas horas vagas;</p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/jeniblo_dev">Blog</a>. Segue lá e vem bater um papo!</p>
