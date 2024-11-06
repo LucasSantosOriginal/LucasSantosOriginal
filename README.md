@@ -14,8 +14,9 @@ I’m passionate about gaming, and my life dream is to develop a game with a sou
 Below, you’ll find all my work experiences and the programming languages I know.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/03f07381-e639-43e7-9003-4572e2131d89" width="350">
+  <img src=https://github.com/user-attachments/assets/a0926e33-1440-4669-b13d-19f6d17160e4" width="350">
 </p>
+
 
 
 ## TECH STACK
