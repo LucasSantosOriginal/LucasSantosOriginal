@@ -33,10 +33,6 @@ Below, you’ll find all my work experiences and the programming languages I kno
   <img src="https://github.com/user-attachments/assets/03f07381-e639-43e7-9003-4572e2131d89" width="350">
 </p>
 
-![work-computer]()
-
-🔭 I'm not currently working for a company; I'm a freelancer and open to job opportunities.
-🌱 I’m currently learning React Native, Angular, Python, Node.js, TypeScript, Tailwind CSS 
 
 ## TECH STACK
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
@@ -54,10 +50,16 @@ Below, you’ll find all my work experiences and the programming languages I kno
 <a href="https://github.com/lucassantosoriginal">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantosoriginal&layout=compact&langs_count=7&theme=midnight-purple"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassantosoriginal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
 </div>
-
-## CONTACT ME:
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">🤿 I created a website for a Brazilian trap artist. <a href="https://lucassantosoriginal.github.io/lildigs-siteofc/">Alura</a>;</p>
+ <p align="left">💻 Sou formada em Sistemas de Informação e faço pós graduação em Arquitetura de Sistemas .NET com Azure na FIAP;</p>
+ <p align="left">📚 Tenho trabalhado e estudado com C# e .NET, mas também gosto de me aventurar em Unity nas horas vagas;</p>
+ <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/jeniblo_dev">Blog</a>. Segue lá e vem bater um papo!</p>
+ <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+</div>
 
 
 
