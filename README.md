@@ -1,5 +1,3 @@
-
-
 ## <h1>LUCAS SANTOS</h1>
 <div>
 
@@ -69,15 +67,15 @@ Information Security Analyst <br>
   <br>
 </div>
 <div classname="telefonica">
-<img src="https://github.com/user-attachments/assets/591c1a16-70c6-4f08-9f5b-e5a59bfc8fca" width="100" height="100"/>
-  <br>
- trainee in IT Help Desk  <br>
+<h2> Telefonica Educação Digital </h2></br>
+<p>São Paulo, Brazil </br>
+trainee in IT Help Desk  <br>
  February 2021 - February 2022 <br>
-  <br>
+</br>
    <p>
  Managed users, computers, and groups via Active Directory, handled computer maintenance with OCS Inventory, supported software installations for Office 365,
  and addressed employee needs through Redmine. </p>
-
+  <h3>SKILLS</h3>
 </div>
 
 
