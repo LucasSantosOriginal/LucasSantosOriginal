@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **LucasSantosOriginal/LucasSantosOriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +15,16 @@ Here are some ideas to get you started:
 -->
 
 ##  <h1>LUCAS SANTOS</h1>
-![work-computer](https://github.com/user-attachments/assets/7e55f681-7fe9-4dc4-99ed-52aec55d630a)
+<h2>São Paulo, Brazil </h2>
+😄 Pronouns: He/Him
+🔭 I'm not currently working for a company; I'm a freelancer and open to job opportunities.
+🌱 I’m currently learning React Native, Angular, Python, Node.js, TypeScript, Tailwind CSS 
+![work-computer](https://github.com/user-attachments/assets/03f07381-e639-43e7-9003-4572e2131d89)
 
-- 😄 Pronouns: He/Him
+- 
 
-- 🔭 I'm not currently working for a company; I'm a freelancer and open to job opportunities.
-- 🌱 I’m currently learning React Native, Angular, Python, Node.js, TypeScript, Tailwind CSS 
+- 
+- 
 
 - ⚡ Fun fact:  I'm a big fan of The Last of Us Part I and II, but Part II holds a special place in my heart. It’s a game I'll remember for the rest of my life.
 
