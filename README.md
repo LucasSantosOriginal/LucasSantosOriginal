@@ -116,10 +116,10 @@ LINUX <br>
 
 
 ## PROJECTS
+- [POKEDEX](https://lucassantosoriginal.github.io/pokedex/)
+- [PORTFOLIO](https://lucassantosoriginal.github.io/portfolio/)
+- [REACT NATIVE APP](https://github.com/LucasSantosOriginal/React-Native-Basic)
+- [TWITTER CLONE](https://github.com/LucasSantosOriginal/twitter-clone)
+- [LIL DIGS WEBSITE](https://lucassantosoriginal.github.io/lildigs-siteofc/)
 
-
-- SITE LIL DIGS
-- Portfolio
-- Pokedex
-- React Native App
 
