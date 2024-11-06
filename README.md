@@ -78,6 +78,10 @@ Information Security Analyst <br>
  Creating architectural drawings for initial security models and presenting them to various teams and management.
  Developing a Power BI-based internal wiki site for Security updates, using front-end programming skills (HTML, CSS, JavaScript) for interactivity.
  Utilizing Confluence and SharePoint for documentation and ServiceNow for ticket management involving software security analysis
+
+
+<img loading="lazy" src="https://github.com/user-attachments/assets/cc390121-ef02-4f2e-b7c0-330154668859" width="60" height="40" />
+
 </p>
 <img>
   
