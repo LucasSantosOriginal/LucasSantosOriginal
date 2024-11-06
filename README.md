@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 ## JOB EXPERIENCE
 <div classname="vivo">
   <img src="https://github.com/user-attachments/assets/d3da8bce-a434-4afc-bfa4-f15e2a4f724a" width="100" height="100" />
-  <h2> Brasil (Remote)
-Information Security Analyst
- March 2022 - May 2024
+<h2> VIVO <br>
+Information Security Analyst <br>
+ March 2022 - May 2024 <br>
 </h2>
   <p>
      Supported Cloud and Architecture teams in implementing the CIS Model, OWASP standards, AWS, GCP, Huawei Cloud, and Microsoft Azure. Responsibilities
@@ -65,6 +65,8 @@ Information Security Analyst
  Developing a Power BI-based internal wiki site for Security updates, using front-end programming skills (HTML, CSS, JavaScript) for interactivity.
  Utilizing Confluence and SharePoint for documentation and ServiceNow for ticket management involving software security analysis
 </p>
+<img>
+  
 </div>
 
 
