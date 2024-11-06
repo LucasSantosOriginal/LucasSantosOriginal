@@ -14,11 +14,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  <h1>LUCAS SANTOS</h1>
-<h2>São Paulo, Brazil </h2>
-😄 Pronouns: He/Him
+## <h1>LUCAS SANTOS</h1>
+<div>
 
-![work-computer](https://github.com/user-attachments/assets/03f07381-e639-43e7-9003-4572e2131d89)
+<a href = "mailto:contato.lucasazevedo1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-azevedos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+## Hello, Devs!!
+
+Hey Devs! I’m Lucas Santos, 25 years old, born and raised in São Paulo, Brazil. I’m a front-end developer, music producer, and I’ve got 2 years of experience as a CyberSecurity analyst.
+
+I’m passionate about gaming, and my life dream is to develop a game with a soundtrack made by me as well. I have a degree in Information Technology and I’m currently looking for opportunities in front-end and similar fields.
+
+Below, you’ll find all my work experiences and the programming languages I know.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/03f07381-e639-43e7-9003-4572e2131d89" width="350">
+</p>
+
+![work-computer]()
 
 🔭 I'm not currently working for a company; I'm a freelancer and open to job opportunities.
 🌱 I’m currently learning React Native, Angular, Python, Node.js, TypeScript, Tailwind CSS 
@@ -44,11 +59,7 @@ Here are some ideas to get you started:
 
 ## CONTACT ME:
 
-<div>
 
-<a href = "mailto:contato.lucasazevedo1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-azevedos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 ## JOB EXPERIENCE
 <div classname="vivo">
