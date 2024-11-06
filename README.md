@@ -41,7 +41,7 @@ Below, you’ll find all my work experiences and the programming languages I kno
  <p align="left">🤿 I created a website for a Brazilian trap artist. <a href="https://lucassantosoriginal.github.io/lildigs-siteofc/">LIL DIGS</a>;</p>
  <p align="left">💻 I have a degree in Information Systems and am currently pursuing a postgraduate degree in Full Stack Development </p>
  <p align="left">📚 I've been working with Power BI, WordPress, and JavaScript, and I’m really getting into React Native, TypeScript, and Python.</p>
- <p align="left">🎮 "I’m a huge fan of The Last of Us series, Part I and Part II. But Part II holds a special place in my heart; it’s been a big inspiration for me and got me dreaming about creating my own game someday.</p>
+ <p align="left">🎮 I’m a huge fan of The Last of Us series, Part I and Part II. But Part II holds a special place in my heart; it’s been a big inspiration for me and got me dreaming about creating my own game someday.</p>
 </div>
 
 <br>
