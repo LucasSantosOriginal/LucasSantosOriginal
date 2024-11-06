@@ -66,6 +66,8 @@ Below, you’ll find all my work experiences and the programming languages I kno
 ## JOB EXPERIENCE
 <div classname="vivo">
   <img src="https://github.com/user-attachments/assets/d3da8bce-a434-4afc-bfa4-f15e2a4f724a" width="100" height="100" />
+</br>
+São Paulo, Brazil </br>
 Information Security Analyst <br>
  March 2022 - May 2024 <br>
 </h2>
