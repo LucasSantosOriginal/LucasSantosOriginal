@@ -17,16 +17,11 @@ Here are some ideas to get you started:
 ##  <h1>LUCAS SANTOS</h1>
 <h2>São Paulo, Brazil </h2>
 😄 Pronouns: He/Him
-🔭 I'm not currently working for a company; I'm a freelancer and open to job opportunities.
-🌱 I’m currently learning React Native, Angular, Python, Node.js, TypeScript, Tailwind CSS 
+
 ![work-computer](https://github.com/user-attachments/assets/03f07381-e639-43e7-9003-4572e2131d89)
 
-- 
-
-- 
-- 
-
-- ⚡ Fun fact:  I'm a big fan of The Last of Us Part I and II, but Part II holds a special place in my heart. It’s a game I'll remember for the rest of my life.
+🔭 I'm not currently working for a company; I'm a freelancer and open to job opportunities.
+🌱 I’m currently learning React Native, Angular, Python, Node.js, TypeScript, Tailwind CSS 
 
 ## TECH STACK
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
