@@ -1,5 +1,5 @@
 ## <h1>LUCAS SANTOS</h1>
-<a href="https://lucassantosoriginal.github.io/portfolio/">PORTFOLIO</a>
+<a href="https://lucassantosoriginal.github.io/my-portfolio/">PORTFOLIO</a>
 <div>
 
 <a href = "mailto:contato.lucasazevedo1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
