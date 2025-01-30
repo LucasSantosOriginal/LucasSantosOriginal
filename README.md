@@ -39,7 +39,7 @@ Abaixo, você encontrará todas as minhas experiências profissionais e as lingu
 </br>
 <div display="inline-block">
  <p align="left">🤿 Criei um site para um artista de trap brasileiro. <a href="https://lucassantosoriginal.github.io/lildigs-siteofc/">LIL DIGS</a>, e meu  
-<a href="https://lucassantosoriginal.github.io/portfolio/"/>Portfólio</a> </p> 
+<a href="https://lucassantosoriginal.github.io/my-portfolio/"/>Portfólio</a> </p> 
  <p align="left">💻 Tenho graduação em Sistemas de Informação e atualmente estou cursando pós-graduação em Desenvolvimento Full Stack </p>
  <p align="left">📚 Trabalhei com Power BI, WordPress e JavaScript, e estou me aprofundando em React Native, TypeScript e Python.</p>
  <p align="left">🎮 Sou fã da série The Last of Us, Parte I e Parte II. Mas a Parte II tem um lugar especial no meu coração; foi uma grande inspiração para mim e me fez sonhar em criar meu próprio jogo algum dia.</p>
