@@ -1,34 +1,30 @@
 ## <h1>LUCAS SANTOS</h1>
-<a href="https://lucassantosoriginal.github.io/my-portfolio/">PORTFOLIO</a>
+<a href="https://lucassantosoriginal.github.io/my-portfolio/">PORTFÓLIO</a>
 <div>
 
-<a href = "mailto:contato.lucasazevedo1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:contato.lucasazevedo1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-azevedos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Hello, Devs!!
+## Olá, Devs!!
 
-I’m Lucas Santos, 25 years old, born and raised in São Paulo, Brazil. I’m a front-end developer, music producer, and I’ve got 2 years of experience as a CyberSecurity analyst.
+Sou Lucas Santos, tenho 25 anos, nascido e criado em São Paulo, Brasil. Sou desenvolvedor front-end, produtor musical, e tenho 2 anos de experiência como analista de cibersegurança.
 
-I’m passionate about gaming, and my life dream is to develop a game with a soundtrack made by me as well. I have a degree in Information Technology and I’m currently looking for opportunities in front-end and similar fields.
+Sou apaixonado por games e meu grande sonho é desenvolver um jogo com uma trilha sonora feita por mim. Tenho formação em Tecnologia da Informação e atualmente estou em busca de oportunidades nas áreas de front-end e afins.
 
-Below, you’ll find all my work experiences and the programming languages I know.
+Abaixo, você encontrará todas as minhas experiências profissionais e as linguagens de programação que conheço.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c6c97461-e622-43a4-a00b-9977e8c631c2"width="300">
+  <img src="https://github.com/user-attachments/assets/c6c97461-e622-43a4-a00b-9977e8c631c2" width="300">
 </p>
 
-
-
-
-
-## TECH STACK
+## TECNOLOGIAS
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
-<img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
@@ -42,30 +38,29 @@ Below, you’ll find all my work experiences and the programming languages I kno
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 I created a website for a Brazilian trap artist. <a href="https://lucassantosoriginal.github.io/lildigs-siteofc/">LIL DIGS</a>, and my  
-<a href="https://lucassantosoriginal.github.io/portfolio/"/>Portfolio</a> </p> 
- <p align="left">💻 I have a degree in Information Systems and am currently pursuing a postgraduate degree in Full Stack Development </p>
- <p align="left">📚 I've been working with Power BI, WordPress, and JavaScript, and I’m really getting into React Native, TypeScript, and Python.</p>
- <p align="left">🎮 I’m a huge fan of The Last of Us series, Part I and Part II. But Part II holds a special place in my heart; it’s been a big inspiration for me and got me dreaming about creating my own game someday.</p>
+ <p align="left">🤿 Criei um site para um artista de trap brasileiro. <a href="https://lucassantosoriginal.github.io/lildigs-siteofc/">LIL DIGS</a>, e meu  
+<a href="https://lucassantosoriginal.github.io/portfolio/"/>Portfólio</a> </p> 
+ <p align="left">💻 Tenho graduação em Sistemas de Informação e atualmente estou cursando pós-graduação em Desenvolvimento Full Stack </p>
+ <p align="left">📚 Trabalhei com Power BI, WordPress e JavaScript, e estou me aprofundando em React Native, TypeScript e Python.</p>
+ <p align="left">🎮 Sou fã da série The Last of Us, Parte I e Parte II. Mas a Parte II tem um lugar especial no meu coração; foi uma grande inspiração para mim e me fez sonhar em criar meu próprio jogo algum dia.</p>
 </div>
 
 <br>
 
-<h1>JOB EXPERIENCE</h1>
+<h1>EXPERIÊNCIA DE TRABALHO</h1>
 <h2> Vivo (Telefônica Brasil)</h2></br>
-<p>São Paulo, Brazil </br>
-Information Security Analyst <br>
- March 2022 - May 2024 <br>
+<p>São Paulo, Brasil </br>
+Analista de Segurança da Informação <br>
+ Março 2022 - Maio 2024 <br>
 </br></p>
   <p>
-     Supported Cloud and Architecture teams in implementing the CIS Model, OWASP standards, AWS, GCP, Huawei Cloud, and Microsoft Azure. Responsibilities
- included:
- Collaborating with the Architecture team to research and design zero-trust security solutions.
- Creating architectural drawings for initial security models and presenting them to various teams and management.
- Developing a Power BI-based internal wiki site for Security updates, using front-end programming skills (HTML, CSS, JavaScript) for interactivity.
- Utilizing Confluence and SharePoint for documentation and ServiceNow for ticket management involving software security analysis
+     Apoiei as equipes de Cloud e Arquitetura na implementação do Modelo CIS, padrões OWASP, AWS, GCP, Huawei Cloud e Microsoft Azure. Minhas responsabilidades incluíam:
+ Colaborar com a equipe de Arquitetura para pesquisar e projetar soluções de segurança de confiança zero.
+ Criar desenhos arquitetônicos para modelos iniciais de segurança e apresentá-los a várias equipes e à gestão.
+ Desenvolver um site interno baseado em Power BI para atualizações de Segurança, utilizando habilidades de programação front-end (HTML, CSS, JavaScript) para interatividade.
+ Utilizar o Confluence e SharePoint para documentação e o ServiceNow para gerenciamento de tickets envolvendo análise de segurança de software.
 </p>
-  <h3>SKILLS</h3>
+  <h3>HABILIDADES</h3>
 <img loading="lazy" src="https://github.com/user-attachments/assets/1605baf7-8339-4b34-8eaa-503a8b6717f8" width="40" height="40" />
 <img loading="lazy" src="https://github.com/user-attachments/assets/70dd8b09-94fa-4fdb-ac19-56076494da32" width="40" height="40" />
 <img loading="lazy" src="https://github.com/user-attachments/assets/f89ea86c-f63c-455f-a7ff-71beb0018b84" width="40" height="40" />
@@ -76,25 +71,18 @@ Information Security Analyst <br>
 <img loading="lazy" src="https://github.com/user-attachments/assets/a3f04eed-e002-4b54-9662-1bc092855952" width="40" height="40" />
 <img loading="lazy" src="https://github.com/user-attachments/assets/aa5147df-5f69-4ab5-9b51-d39432dc5465" width="40" height="40" />
 
-
-
-
-
-
-
-  <br>
-  <br>
+<br>
+<br>
 </div>
 <div classname="telefonica">
 <h2> Telefonica Educação Digital </h2></br>
-<p>São Paulo, Brazil </br>
-trainee in IT Help Desk  <br>
- February 2021 - February 2022 <br>
+<p>São Paulo, Brasil </br>
+Trainee em Suporte de TI  <br>
+ Fevereiro 2021 - Fevereiro 2022 <br>
 </br>
    <p>
- Managed users, computers, and groups via Active Directory, handled computer maintenance with OCS Inventory, supported software installations for Office 365,
- and addressed employee needs through Redmine. </p>
-  <h3>SKILLS</h3>
+ Gerenciei usuários, computadores e grupos via Active Directory, fiz manutenção de computadores com OCS Inventory, apoiei instalações de software para o Office 365 e atendi necessidades de funcionários por meio do Redmine.</p>
+  <h3>HABILIDADES</h3>
 
 <p>
 TEAM VIEWER <br>
@@ -103,23 +91,13 @@ MICROSOFT ACTIVE DIRECTORY <br>
 REDMINE <br>
 ANYDESK <br>
 LINUX <br>
-
-
-
 </p>
 
-
-
-
- 
 </div>
 
-
-## PROJECTS
+## PROJETOS
 - [POKEDEX](https://lucassantosoriginal.github.io/pokedex/ ) 
-- [PORTFOLIO](https://lucassantosoriginal.github.io/portfolio/)
-- [REACT NATIVE APP](https://github.com/LucasSantosOriginal/React-Native-Basic)
-- [TWITTER CLONE](https://github.com/LucasSantosOriginal/twitter-clone)
-- [LIL DIGS WEBSITE](https://lucassantosoriginal.github.io/lildigs-siteofc/)
-
-
+- [PORTFÓLIO](https://lucassantosoriginal.github.io/portfolio/)
+- [APLICATIVO REACT NATIVE](https://github.com/LucasSantosOriginal/React-Native-Basic)
+- [CLONE DO TWITTER](https://github.com/LucasSantosOriginal/twitter-clone)
+- [SITE LIL DIGS](https://lucassantosoriginal.github.io/lildigs-siteofc/)
