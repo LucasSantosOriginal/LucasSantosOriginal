@@ -96,8 +96,8 @@ LINUX <br>
 </div>
 
 ## PROJETOS
-- [POKEDEX](https://lucassantosoriginal.github.io/pokedex/ ) 
-- [PORTFÓLIO](https://lucassantosoriginal.github.io/portfolio/)
+- [MARIO JAVASCRIPT](https://lucassantosoriginal.github.io/my-portfolio/projetos/projeto-javascript.html) 
+- [PORTFÓLIO](https://lucassantosoriginal.github.io/my-portfolio/)
 - [APLICATIVO REACT NATIVE](https://github.com/LucasSantosOriginal/React-Native-Basic)
 - [CLONE DO TWITTER](https://github.com/LucasSantosOriginal/twitter-clone)
 - [SITE LIL DIGS](https://lucassantosoriginal.github.io/lildigs-siteofc/)
