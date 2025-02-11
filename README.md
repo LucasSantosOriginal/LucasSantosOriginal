@@ -98,6 +98,5 @@ LINUX <br>
 ## PROJETOS
 - [MARIO JAVASCRIPT](https://lucassantosoriginal.github.io/my-portfolio/projetos/projeto-javascript.html) 
 - [PORTFÓLIO](https://lucassantosoriginal.github.io/my-portfolio/)
-- [APLICATIVO REACT NATIVE](https://github.com/LucasSantosOriginal/React-Native-Basic)
-- [CLONE DO TWITTER](https://github.com/LucasSantosOriginal/twitter-clone)
+- [CLONE DO TWITTER](https://lucassantosoriginal.github.io/twitter-clone-v2/)
 - [SITE LIL DIGS](https://lucassantosoriginal.github.io/lildigs-siteofc/)
