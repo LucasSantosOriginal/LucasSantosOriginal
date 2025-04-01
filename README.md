@@ -39,7 +39,7 @@ Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estud
  <p align="left">🤿 Criei um site para um artista de trap brasileiro. <a href="https://lucassantosoriginal.github.io/lildigs-siteofc/">LIL DIGS</a>, e meu  
 <a href="https://lucassantosoriginal.github.io/my-portfolio/"/>Portfólio</a> </p> 
  <p align="left">💻 Tenho graduação em Sistemas de Informação e atualmente estou cursando pós-graduação em Desenvolvimento Full Stack </p>
- <p align="left">📚 Trabalhei com Power BI, WordPress e JavaScript, e estou me aprofundando em React Native, TypeScript e Python.</p>
+ <p align="left">📚 Apaixonado em Tecnologia e Musica.</p>
  <p align="left">🎮 Sou fã da série The Last of Us, Parte I e Parte II. Mas a Parte II tem um lugar especial no meu coração; foi uma grande inspiração para mim e me fez sonhar em criar meu próprio jogo algum dia.</p>
 </div>
 
@@ -54,20 +54,6 @@ Analista de Segurança da Informação <br>
   <p>
    
 
-
-  <h3>HABILIDADES</h3>
-<img loading="lazy" src="https://github.com/user-attachments/assets/1605baf7-8339-4b34-8eaa-503a8b6717f8" width="40" height="40" />
-<img loading="lazy" src="https://github.com/user-attachments/assets/70dd8b09-94fa-4fdb-ac19-56076494da32" width="40" height="40" />
-<img loading="lazy" src="https://github.com/user-attachments/assets/f89ea86c-f63c-455f-a7ff-71beb0018b84" width="40" height="40" />
-<img loading="lazy" src="https://github.com/user-attachments/assets/70ec039c-298b-4a33-8fef-c9a1143b44b6" width="40" height="40" />
-<img loading="lazy" src="https://github.com/user-attachments/assets/252921b1-2cb2-43ed-a731-67f64da79658" width="40" height="40" />
-<img loading="lazy" src="https://github.com/user-attachments/assets/e7a1b87b-6a23-4d4f-be53-c1143c30fffc" width="40" height="40" />
-<img loading="lazy" src="https://github.com/user-attachments/assets/139f8398-af85-4f25-a7b2-df9d63f293b0" width="40" height="40" />
-<img loading="lazy" src="https://github.com/user-attachments/assets/a3f04eed-e002-4b54-9662-1bc092855952" width="40" height="40" />
-<img loading="lazy" src="https://github.com/user-attachments/assets/aa5147df-5f69-4ab5-9b51-d39432dc5465" width="40" height="40" />
-
-<br>
-<br>
 </div>
 
 ## PROJETOS
