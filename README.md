@@ -36,8 +36,7 @@ Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estud
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Criei um site para um artista de trap brasileiro. <a href="https://lucassantosoriginal.github.io/lildigs-siteofc/">LIL DIGS</a>, e meu  
-<a href="https://lucassantosoriginal.github.io/my-portfolio/"/>Portfólio</a> </p> 
+meu  <a href="https://lucassantosoriginal.github.io/my-portfolio/"/>Portfólio</a> </p> 
  <p align="left">💻 Tenho graduação em Sistemas de Informação e atualmente estou cursando pós-graduação em Desenvolvimento Full Stack </p>
  <p align="left">📚 Apaixonado em Tecnologia e Musica.</p>
  <p align="left">🎮 Sou fã da série The Last of Us, Parte I e Parte II. Mas a Parte II tem um lugar especial no meu coração; foi uma grande inspiração para mim e me fez sonhar em criar meu próprio jogo algum dia.</p>
@@ -57,6 +56,8 @@ Analista de Segurança da Informação <br>
 </div>
 
 ## PROJETOS
+- [CORINTHIANS](https://lucassantosoriginal.github.io/corinthians/) 
+
 - [MARIO JAVASCRIPT](https://lucassantosoriginal.github.io/my-portfolio/projetos/projeto-javascript.html) 
 - [PORTFÓLIO](https://lucassantosoriginal.github.io/my-portfolio/)
 - [CLONE DO TWITTER](https://lucassantosoriginal.github.io/twitter-clone-v2/)
