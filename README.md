@@ -54,12 +54,13 @@ Analista de Segurança da Informação <br>
  Março 2022 - Maio 2024 <br>
 </br></p>
   <p>
-     Apoiei as equipes de Cloud e Arquitetura na implementação do Modelo CIS, padrões OWASP, AWS, GCP, Huawei Cloud e Microsoft Azure. Minhas responsabilidades incluíam:
- Colaborar com a equipe de Arquitetura para pesquisar e projetar soluções de segurança de confiança zero.
- Criar desenhos arquitetônicos para modelos iniciais de segurança e apresentá-los a várias equipes e à gestão.
- Desenvolver um site interno baseado em Power BI para atualizações de Segurança, utilizando habilidades de programação front-end (HTML, CSS, JavaScript) para interatividade.
- Utilizar o Confluence e SharePoint para documentação e o ServiceNow para gerenciamento de tickets envolvendo análise de segurança de software.
-</p>
+    Sou um desenvolvedor front-end com experiência em HTML, CSS, JavaScript, TypeScript, React.js e Node.js, criando interfaces modernas, responsivas e performáticas. Cursei Sistemas para Internet e foi aí que descobri o mundo do front-end, me apaixonando pela área. Sempre atuei em tecnologia e, desde então, nunca parei de estudar e me atualizar para aprimorar minhas habilidades no desenvolvimento web.
+
+Além disso, já trabalhei com Segurança da Informação e Suporte Técnico, o que me deu uma visão mais ampla sobre boas práticas de segurança, desempenho e infraestrutura. Essa experiência me ajuda a desenvolver aplicações mais seguras e eficientes.
+
+Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estudos e projetos. Busco oportunidades como Desenvolvedor Front-End Júnior para aplicar minhas habilidades e contribuir em projetos inovadores.
+
+
   <h3>HABILIDADES</h3>
 <img loading="lazy" src="https://github.com/user-attachments/assets/1605baf7-8339-4b34-8eaa-503a8b6717f8" width="40" height="40" />
 <img loading="lazy" src="https://github.com/user-attachments/assets/70dd8b09-94fa-4fdb-ac19-56076494da32" width="40" height="40" />
