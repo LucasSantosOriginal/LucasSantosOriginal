@@ -7,13 +7,11 @@
 </div>
 
 ## Olá, Devs!!
+ Sou um desenvolvedor front-end com experiência em HTML, CSS, JavaScript, TypeScript, React.js e Node.js, criando interfaces modernas, responsivas e performáticas. Cursei Sistemas para Internet e foi aí que descobri o mundo do front-end, me apaixonando pela área. Sempre atuei em tecnologia e, desde então, nunca parei de estudar e me atualizar para aprimorar minhas habilidades no desenvolvimento web.
 
-Sou Lucas Santos, tenho 25 anos, nascido e criado em São Paulo, Brasil. Sou desenvolvedor front-end, produtor musical, e tenho 2 anos de experiência como analista de cibersegurança.
+Além disso, já trabalhei com Segurança da Informação e Suporte Técnico, o que me deu uma visão mais ampla sobre boas práticas de segurança, desempenho e infraestrutura. Essa experiência me ajuda a desenvolver aplicações mais seguras e eficientes.
 
-Sou apaixonado por games e meu grande sonho é desenvolver um jogo com uma trilha sonora feita por mim. Tenho formação em Tecnologia da Informação e atualmente estou em busca de oportunidades nas áreas de front-end e afins.
-
-Abaixo, você encontrará todas as minhas experiências profissionais e as linguagens de programação que conheço.
-
+Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estudos e projetos. Busco oportunidades como Desenvolvedor Front-End Júnior para aplicar minhas habilidades e contribuir em projetos inovadores.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c6c97461-e622-43a4-a00b-9977e8c631c2" width="300">
 </p>
@@ -54,11 +52,7 @@ Analista de Segurança da Informação <br>
  Março 2022 - Maio 2024 <br>
 </br></p>
   <p>
-    Sou um desenvolvedor front-end com experiência em HTML, CSS, JavaScript, TypeScript, React.js e Node.js, criando interfaces modernas, responsivas e performáticas. Cursei Sistemas para Internet e foi aí que descobri o mundo do front-end, me apaixonando pela área. Sempre atuei em tecnologia e, desde então, nunca parei de estudar e me atualizar para aprimorar minhas habilidades no desenvolvimento web.
-
-Além disso, já trabalhei com Segurança da Informação e Suporte Técnico, o que me deu uma visão mais ampla sobre boas práticas de segurança, desempenho e infraestrutura. Essa experiência me ajuda a desenvolver aplicações mais seguras e eficientes.
-
-Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estudos e projetos. Busco oportunidades como Desenvolvedor Front-End Júnior para aplicar minhas habilidades e contribuir em projetos inovadores.
+   
 
 
   <h3>HABILIDADES</h3>
@@ -74,26 +68,6 @@ Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estud
 
 <br>
 <br>
-</div>
-<div classname="telefonica">
-<h2> Telefonica Educação Digital </h2></br>
-<p>São Paulo, Brasil </br>
-Trainee em Suporte de TI  <br>
- Fevereiro 2021 - Fevereiro 2022 <br>
-</br>
-   <p>
- Gerenciei usuários, computadores e grupos via Active Directory, fiz manutenção de computadores com OCS Inventory, apoiei instalações de software para o Office 365 e atendi necessidades de funcionários por meio do Redmine.</p>
-  <h3>HABILIDADES</h3>
-
-<p>
-TEAM VIEWER <br>
-OCS INVENTORY <br>
-MICROSOFT ACTIVE DIRECTORY <br>
-REDMINE <br>
-ANYDESK <br>
-LINUX <br>
-</p>
-
 </div>
 
 ## PROJETOS
