@@ -7,9 +7,8 @@
 </div>
 
 ## Olá, Devs!!
- Sou um desenvolvedor front-end com experiência em HTML, CSS, JavaScript, TypeScript, React.js e Node.js, criando interfaces modernas, responsivas e performáticas. Cursei Sistemas para Internet e foi aí que descobri o mundo do front-end, me apaixonando pela área. Sempre atuei em tecnologia e, desde então, nunca parei de estudar e me atualizar para aprimorar minhas habilidades no desenvolvimento web.
+Me chamo Lucas, sou desenvolvedor Front-End Junior com expêriencia em freelances.
 
-Além disso, já trabalhei com Segurança da Informação e Suporte Técnico, o que me deu uma visão mais ampla sobre boas práticas de segurança, desempenho e infraestrutura. Essa experiência me ajuda a desenvolver aplicações mais seguras e eficientes.
 
 Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estudos e projetos. Busco oportunidades como Desenvolvedor Front-End Júnior para aplicar minhas habilidades e contribuir em projetos inovadores.
 <p align="center">
@@ -38,27 +37,13 @@ Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estud
 <div display="inline-block">
 meu  <a href="https://lucassantosoriginal.github.io/my-portfolio/"/>Portfólio</a> </p> 
  <p align="left">💻 Tenho graduação em Sistemas de Informação e atualmente estou cursando pós-graduação em Desenvolvimento Full Stack </p>
- <p align="left">📚 Apaixonado em Tecnologia e Musica.</p>
+ <p align="left">📚 Apaixonado em Tecnologia,games e música.</p>
  <p align="left">🎮 Sou fã da série The Last of Us, Parte I e Parte II. Mas a Parte II tem um lugar especial no meu coração; foi uma grande inspiração para mim e me fez sonhar em criar meu próprio jogo algum dia.</p>
-</div>
 
-<br>
-
-<h1>EXPERIÊNCIA DE TRABALHO</h1>
-<h2> Vivo (Telefônica Brasil)</h2></br>
-<p>São Paulo, Brasil </br>
-Analista de Segurança da Informação <br>
- Março 2022 - Maio 2024 <br>
-</br></p>
-  <p>
-   
-
-</div>
 
 ## PROJETOS
-- [CORINTHIANS](https://lucassantosoriginal.github.io/corinthians/) 
-
-- [MARIO JAVASCRIPT](https://lucassantosoriginal.github.io/my-portfolio/projetos/projeto-javascript.html) 
+- [CORINTHIANS (The History of the People's Team) ](https://lucassantosoriginal.github.io/corinthians/) 
 - [PORTFÓLIO](https://lucassantosoriginal.github.io/my-portfolio/)
+- [MARIO JAVASCRIPT](https://lucassantosoriginal.github.io/my-portfolio/projetos/projeto-javascript.html) 
 - [CLONE DO TWITTER](https://lucassantosoriginal.github.io/twitter-clone-v2/)
 - [SITE LIL DIGS](https://lucassantosoriginal.github.io/lildigs-siteofc/)
