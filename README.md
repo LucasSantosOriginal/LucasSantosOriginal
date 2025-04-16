@@ -43,3 +43,4 @@ Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estud
 - [MARIO JAVASCRIPT](https://lucassantosoriginal.github.io/my-portfolio/projetos/projeto-javascript.html) 
 - [CLONE DO TWITTER](https://lucassantosoriginal.github.io/twitter-clone-v2/)
 - [SITE LIL DIGS](https://lucassantosoriginal.github.io/lildigs-siteofc/)
+- [Portfólio Musical](https://lucassantosoriginal.github.io/music/) 
