@@ -32,7 +32,6 @@ Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estud
 </br>
 </br>
 <div display="inline-block">
-meu  <a href="https://lucassantosoriginal.github.io/my-portfolio/"/>Portfólio</a> </p> 
  <p align="left">💻 Tenho graduação em Sistemas de Informação e atualmente estou cursando pós-graduação em Desenvolvimento Full Stack </p>
  <p align="left">📚 Apaixonado em Tecnologia,games e música.</p>
  <p align="left">🎮 Sou fã da série The Last of Us, Parte I e Parte II. Mas a Parte II tem um lugar especial no meu coração; foi uma grande inspiração para mim e me fez sonhar em criar meu próprio jogo algum dia.</p>
