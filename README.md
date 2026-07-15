@@ -36,7 +36,7 @@ Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estud
 
 
 ## PROJETOS
-- [Enrique Augusto - Site) ](https://enriqueaugusto.com) 
+- [Enrique Augusto - Site ](https://enriqueaugusto.com) 
 - [CORINTHIANS (The History of the People's Team) ](https://lucassantosoriginal.github.io/corinthians/) 
 - [PORTFÓLIO](https://lucassantosoriginal.github.io/my-portfolio/)
 - [MARIO JAVASCRIPT](https://lucassantosoriginal.github.io/my-portfolio/projetos/projeto-javascript.html) 
