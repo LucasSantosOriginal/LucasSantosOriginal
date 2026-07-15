@@ -33,11 +33,10 @@ Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estud
 </br>
 <div display="inline-block">
  <p align="left">💻 Tenho graduação em Sistemas de Informação e atualmente estou cursando pós-graduação em Desenvolvimento Full Stack </p>
- <p align="left">📚 Apaixonado em Tecnologia,games e música.</p>
- <p align="left">🎮 Sou fã da série The Last of Us, Parte I e Parte II. Mas a Parte II tem um lugar especial no meu coração; foi uma grande inspiração para mim e me fez sonhar em criar meu próprio jogo algum dia.</p>
 
 
 ## PROJETOS
+- [Enrique Augusto - Site) ](https://enriqueaugusto.com) 
 - [CORINTHIANS (The History of the People's Team) ](https://lucassantosoriginal.github.io/corinthians/) 
 - [PORTFÓLIO](https://lucassantosoriginal.github.io/my-portfolio/)
 - [MARIO JAVASCRIPT](https://lucassantosoriginal.github.io/my-portfolio/projetos/projeto-javascript.html) 
