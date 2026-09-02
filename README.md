@@ -20,6 +20,4 @@ Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estud
 
 ## Algumas coisas que ando fazendo por ai
 - [GTA VI Countdown](https://lucassantosoriginal.github.io/gta-vi-countdown/)
-- [Enrique Augusto - Site ](https://enriqueaugusto.com) 
-- [MARIO JAVASCRIPT](https://lucassantosoriginal.github.io/my-portfolio/projetos/projeto-javascript.html) 
 - [Portfólio Musical](https://lucassantosoriginal.github.io/music/) 
