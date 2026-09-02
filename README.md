@@ -6,11 +6,10 @@
 <a href="https://www.linkedin.com/in/lucas-azevedos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Olá, Devs!!
-Me chamo Lucas, sou desenvolvedor Front-End Junior com expêriencia em freelances.
-
-
-Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estudos e projetos. Busco oportunidades como Desenvolvedor Front-End Júnior para aplicar minhas habilidades e contribuir em projetos inovadores.
+## Olá, seres humanos!!
+Me chamo Lucas, faço algumas coisas que vem na minha cabeça.
+ <br>
+Mantenho um portfólio ativo e um GitHub atualizado, onde compartilho meus estudos e projetos.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c6c97461-e622-43a4-a00b-9977e8c631c2" width="200">
 </p>
